@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi, I'm Karolkalex 👋
 
 <!-- Dynamic ✨ animated header -->
-![Karolkalex Banner](https://user-images.githubusercontent.com/karolkalex/banner-placeholder.png)
+![Karolkalex Banner](https://pbs.twimg.com/profile_banners/1063541846511665154/1714841987/1500x500)
 
 ## 🚀 About Me
 
