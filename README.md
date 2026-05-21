@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 
 - 🎓 Biomedical Engineering Student  
-- 🔗 Interoperability Specialist  
+- 🔗 Medical Device Integration  
 - 💻 Software Developer
 
 I thrive at the intersection of healthcare and technology, building solutions that bridge systems for better patient care. Whether it's integrating data from fetal monitors or streamlining anesthesia electronic records, I love making healthcare smarter and more connected.
